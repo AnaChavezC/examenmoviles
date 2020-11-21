@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/examenmoviles/static/css/main.665d1518.chunk.css",
+    "main.js": "/examenmoviles/static/js/main.bbc71622.chunk.js",
+    "main.js.map": "/examenmoviles/static/js/main.bbc71622.chunk.js.map",
+    "runtime-main.js": "/examenmoviles/static/js/runtime-main.be1fb01f.js",
+    "runtime-main.js.map": "/examenmoviles/static/js/runtime-main.be1fb01f.js.map",
+    "static/css/2.267ffeee.chunk.css": "/examenmoviles/static/css/2.267ffeee.chunk.css",
+    "static/js/2.8eb9e012.chunk.js": "/examenmoviles/static/js/2.8eb9e012.chunk.js",
+    "static/js/2.8eb9e012.chunk.js.map": "/examenmoviles/static/js/2.8eb9e012.chunk.js.map",
+    "static/js/3.af982664.chunk.js": "/examenmoviles/static/js/3.af982664.chunk.js",
+    "static/js/3.af982664.chunk.js.map": "/examenmoviles/static/js/3.af982664.chunk.js.map",
+    "index.html": "/examenmoviles/index.html",
+    "static/css/2.267ffeee.chunk.css.map": "/examenmoviles/static/css/2.267ffeee.chunk.css.map",
+    "static/css/main.665d1518.chunk.css.map": "/examenmoviles/static/css/main.665d1518.chunk.css.map",
+    "static/js/2.8eb9e012.chunk.js.LICENSE.txt": "/examenmoviles/static/js/2.8eb9e012.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be1fb01f.js",
+    "static/css/2.267ffeee.chunk.css",
+    "static/js/2.8eb9e012.chunk.js",
+    "static/css/main.665d1518.chunk.css",
+    "static/js/main.bbc71622.chunk.js"
+  ]
+}
